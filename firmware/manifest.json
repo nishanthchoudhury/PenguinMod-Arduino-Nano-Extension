@@ -1,0 +1,8 @@
+{
+  "usb": {
+    "file": "firmware_usb_2.0.ino.hex"
+  },
+  "bluetooth": {
+    "file": "firmware_bt_2.0.ino.hex"
+  }
+}
