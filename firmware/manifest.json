@@ -3,6 +3,6 @@
     "file": "firmware_usb_2.0.ino.hex"
   },
   "bluetooth": {
-    "file": "firmware_bt_2.0.ino.hex"
+    "file": "firmware_bluetooth_2.0.ino.hex"
   }
 }
